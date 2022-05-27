@@ -34,7 +34,8 @@ it can be seen that based on Nyquist stability criteria, the system is not stabl
 
 # Passivation by Scaling
 
-## To ensure the passivity of the telerobotic system in the presence of the variable time delay, we utilize the approach of passivation by scaling which adds an extra layer of dampening to ensure the system passivity however the transparency of the system is affected. 
+## 
+To ensure the passivity of the telerobotic system in the presence of the variable time delay, we utilize the approach of passivation by scaling which adds an extra layer of dampening to ensure the system passivity however the transparency of the system is affected. 
 
 ## Force Tracking
 
