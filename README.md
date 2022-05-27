@@ -32,5 +32,20 @@ it can be seen that based on Nyquist stability criteria, the system is not stabl
 ![image](https://user-images.githubusercontent.com/69100847/170680908-9546e91e-305a-4b58-b545-b11b603d2008.png)
 
 
+# Passivation by Scaling
+
+## To ensure the passivity of the telerobotic system in the presence of the variable time delay, we utilize the approach of passivation by scaling which adds an extra layer of dampening to ensure the system passivity however the transparency of the system is affected. 
+
+## Force Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170684658-2e8500d1-8c1a-495a-9441-efb51ea13b23.png)
+
+
+## Velocity Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170684690-f5855683-29af-457b-ac51-96f880dd6282.png)
+
+
+
 
 
